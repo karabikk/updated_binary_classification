@@ -47,7 +47,7 @@ def extract_label(text):
 
 
 
-client = openai.OpenAI(api_key="sk-a84cc5462d9242679e996120a526d0cc", base_url="https://api.deepseek.com")
+
 
 
 
